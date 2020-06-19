@@ -9,7 +9,7 @@ comments: false
 ## Hello
 
 {% capture images %}
-    https://photos.app.goo.gl/YJa5k6nJtV2W1EX67
+    
 {% endcapture %}
 {% include gallery images=images caption="Minjung Kwon" cols=2 %}
 
@@ -18,6 +18,6 @@ Thank you for reading!
 
 ## Contact
 
-Email: [minjk121@gmail.com](minjk121@gmail.com)
-School Email: [mk2592@cornell.edu](mk2592@cornell.edu)
+Email: [minjk121@gmail.com](http://minjk121@gmail.com)
+School Email: [mk2592@cornell.edu](http://mk2592@cornell.edu)
     
