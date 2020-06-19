@@ -1,7 +1,7 @@
 # Site
 title:              Minjung Kwon
-bio:                'Electrical & Computing Engineer + Explorer'
-description:        "Electrical Engineering Student at The Cooper Union."
+bio:                'Electrical & Computer Engineer + Explorer'
+description:        "Electrical and Computer Engineering Student at Cornell University."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
