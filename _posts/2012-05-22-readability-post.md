@@ -4,7 +4,7 @@ title: "Test post"
 date: 2020-06-20
 excerpt: "This is a test post!"
 tags: [sample post, test]
-comments: true
+comments: false
 ---
 
 
