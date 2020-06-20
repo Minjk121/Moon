@@ -2,7 +2,7 @@
 layout: post
 title: "Test post"
 date: 2020-06-20
-excerpt: "A ton of text to test readability."
+excerpt: "This is a test post!"
 tags: [sample post, test]
 comments: true
 ---
